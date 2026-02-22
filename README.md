@@ -58,6 +58,9 @@
 **2024-2**: 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
+**2024-01**:
+![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-FF0000?style=flat-square&logo=youtubestudio&logoColor=white) 
+![SteamCMD](https://img.shields.io/badge/SteamCMD-171a21?style=flat-square) 
 
 🔗 Connect with Me<br>
 [![인스타그램 바로가기](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyeonsu_makes/) | [![HyeonsuMakes 바로가기](https://img.shields.io/badge/HYEONSU-MAKES-2E7D32?style=for-the-badge)](https://www.hyeonsumakes.me)
