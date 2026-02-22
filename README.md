@@ -58,10 +58,10 @@
 **2024-2**: 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
-**2018~2022-1**:
+**2019~2022-1**:
 ![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-FF0000?style=for-the-badge&logo=youtubestudio&logoColor=white) 
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-171a21?style=for-the-badge) <br>
-**2016~2017-2**:
+**2016~2018-2**:
 ![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-111111?style=for-the-badge) <br>
 
 🔗 Connect with Me<br>
