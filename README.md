@@ -3,10 +3,10 @@
 
 
 📊 Activity Archive<br>
-**청춘네컷**: 비영리 사진 봉사로 총 150장 이상의 작업물 제공<br>
+**2026 소규모 게임 개발**: 현재 기획 및 학습 단계 아카이빙 중<br>
 **중독 서포터즈**: 4대 중독 예방 캠페인 활동으로 2025 우수 서포터즈 선정<br>
 **위더스**: 경상국립대학교 봉사동아리 '위더스'를 통한 지역 사회 봉사 활동 참여<br>
-**2026 소규모 게임 개발**: 현재 기획 및 학습 단계 아카이빙 중<br>
+**청춘네컷**: 비영리 사진 봉사로 총 150장 이상의 작업물 제공<br>
 
 
 📚 Academic Background (University)<br>
@@ -22,7 +22,7 @@
 **2026-1**: ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white) <br>
 **2025-2**: ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
 **2025-1**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br>
-**2024-2**: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
+**2024-2**: ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
 
 
 🔗 Connect with Me<br>
