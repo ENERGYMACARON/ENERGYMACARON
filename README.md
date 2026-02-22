@@ -47,6 +47,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white) <br>
 **2025-2**: 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)  <br>
