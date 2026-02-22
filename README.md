@@ -50,7 +50,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)  <br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) <br>
 **2025-1**: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -60,9 +60,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
 **2018~2022-1**:
 ![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-FF0000?style=for-the-badge&logo=youtubestudio&logoColor=white) 
-![SteamCMD](https://img.shields.io/badge/SteamCMD-171a21?style=for-the-badge) 
+![SteamCMD](https://img.shields.io/badge/SteamCMD-171a21?style=for-the-badge) <br>
 **2016~2017-2**:
-![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-111111?style=for-the-badge) 
+![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-111111?style=for-the-badge) <br>
 
 🔗 Connect with Me<br>
 [![인스타그램 바로가기](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyeonsu_makes/) | [![HyeonsuMakes 바로가기](https://img.shields.io/badge/HYEONSU-MAKES-2E7D32?style=for-the-badge)](https://www.hyeonsumakes.me)
