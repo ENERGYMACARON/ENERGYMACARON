@@ -41,6 +41,7 @@
 
 🚀 Self-Directed Learning (Growth Archive) <br>
 **2026-1**: 
+![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
