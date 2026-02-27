@@ -9,7 +9,7 @@
 
 | Category | Description |
 | :--- | :--- |
-| **🎮 Game Dev** | **2026 소규모 게임 개발**: 2D 아쿠아리움 게임 기획 및 학습 중 |
+| **🎮 Game Dev** | **2026 소규모 게임 개발**: 2D 아쿠아리움 게임 기획 및 학습 중 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white&height=20) |
 | **🎖️ Honors** | **중독 서포터즈**: 2025 우수 서포터즈 선정 (4대 중독 예방 캠페인) |
 | **🤝 Volunteer** | **위더스(Withus)**: 경상국립대학교 지역 사회 봉사 활동 참여 |
 | **📸 Creative** | **청춘네컷**: 비영리 사진 봉사 (총 150장 이상의 결과물 기부) |
