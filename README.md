@@ -31,30 +31,30 @@
 <br>
   
 - **2026-2(Pending Graduation)**: 
-- ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
+ - ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
 - **2026-1**: 
-- ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
+ - ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
 - **2024-1**: 
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+ - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br>
 - **2023-2**: 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
+ - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br>
 - **2023-1**: 
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+ - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge) 
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) <br>
 - **2022-2**: 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+ - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) <br>
 - **2022-1**: 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
@@ -67,28 +67,28 @@
 <br>
   
 - **2026-1**: 
-- ![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
+ - ![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white) <br>
 - **2025-2**: 
-- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+ - ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) <br>
 - **2025-1**: 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br>
 - **2024-2**: 
-- ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge) 
+ - ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
 - **2019~2022-1**:
-- ![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-FF0000?style=for-the-badge&logo=youtubestudio&logoColor=white) 
+ - ![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-FF0000?style=for-the-badge&logo=youtubestudio&logoColor=white) 
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-171a21?style=for-the-badge) <br>
 - **2016~2018-2**:
-- ![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-111111?style=for-the-badge) <br>
+ - ![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-111111?style=for-the-badge) <br>
 </details>
 
 ---
