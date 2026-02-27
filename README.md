@@ -1,13 +1,26 @@
-🌿 세상에 행복을 중개하고 기획하는 개발자, 하현수입니다.<br>
-"기록은 기억을 이기고, 활동은 성장을 증명합니다."<br>
+# 🌿 세상에 행복을 중개하고 기획하는 개발자, 하현수입니다.
 
-📊 Activity Archive<br>
-**2026 소규모 게임 개발**: 현재 기획 및 학습 단계 아카이빙 중<br>
-**중독 서포터즈**: 4대 중독 예방 캠페인 활동으로 2025 우수 서포터즈 선정<br>
-**위더스**: 경상국립대학교 봉사동아리 '위더스'를 통한 지역 사회 봉사 활동 참여<br>
-**청춘네컷**: 비영리 사진 봉사로 총 150장 이상의 작업물 제공<br>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&width=500&lines=기록은+기억을+이기고;활동은+성장을+증명합니다" alt="Typing SVG" />
+</p>
 
-📚 Academic Background (University)<br>
+## 📊 Activity Archive<br>
+> 저의 성장은 현재진행형입니다.
+
+| Category | Description |
+| :--- | :--- |
+| **🎮 Game Dev** | **2026 소규모 게임 개발**: 2D 아쿠아리움 게임 기획 및 학습 중 |
+| **🎖️ Honors** | **중독 서포터즈**: 2025 우수 서포터즈 선정 (4대 중독 예방 캠페인) |
+| **🤝 Volunteer** | **위더스(Withus)**: 경상국립대학교 지역 사회 봉사 활동 참여 |
+| **📸 Creative** | **청춘네컷**: 비영리 사진 봉사 (총 150장 이상의 결과물 기부) |
+
+---
+## 📚 History & Archive
+
+<details>
+<summary><b>📚 Academic Background (University)</b></summary>
+<br>
+  
 **2026-2(Pending Graduation)**: 
 ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
 **2026-1**: 
@@ -38,8 +51,12 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+</details>
 
-🚀 Self-Directed Learning (Growth Archive) <br>
+<details>
+<summary><b>🚀 Self-Directed Learning (Growth Archive) </b></summary>
+<br>
+  
 **2026-1**: 
 ![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) 
@@ -63,10 +80,16 @@
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-171a21?style=for-the-badge) <br>
 **2016~2018-2**:
 ![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-111111?style=for-the-badge) <br>
+</details>
 
-🔗 Connect with Me<br>
-[![인스타그램 바로가기](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyeonsu_makes/) | [![HyeonsuMakes 바로가기](https://img.shields.io/badge/HYEONSU-MAKES-2E7D32?style=for-the-badge)](https://www.hyeonsumakes.me)
+---
 
-<hr>
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.instagram.com/hyeonsu_makes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hyeonsumakes.me"><img src="https://img.shields.io/badge/HYEONSU-MAKES-2E7D32?style=for-the-badge" /></a>
+</p>
 
-💡 **License & Trademark Notice**: *Arduino® is a trademark of Arduino SA. Unity is a trademark of Unity Technologies.*
+<br>
+
+> 💡 **License & Trademark Notice**: *Arduino® is a trademark of Arduino SA. Unity is a trademark of Unity Technologies.*
