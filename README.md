@@ -18,9 +18,10 @@
 
 ## 🛠 Tech Stack & Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7D32&icon_color=2E7D32" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7D32" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
+p>
 
 ---
 
