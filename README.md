@@ -17,6 +17,7 @@
 ---
 
 <img src="https://img.shields.io/badge/2026..."/> 
+
 [![github contribution trophies](https://github-profile-trophy.vercel.app/?username=ENERGYMACARON&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Tech Stack & Stats
