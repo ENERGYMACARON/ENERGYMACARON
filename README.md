@@ -18,9 +18,8 @@
 
 ## 🛠 Tech Stack & Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true" height="150" />
 </p>
 
 ---
