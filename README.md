@@ -4,6 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&width=500&lines=기록은+기억을+이기고;활동은+성장을+증명합니다" alt="Typing SVG" />
 </p>
 
+## 🏫 Academic Profile
+
+<p align="center">
+  <img src="https://energymacaron-univ-profile.vercel.app/api?school=yit&name=하현수&dept=스마트소프트웨어학과&id=22260068&major=SW전공" alt="University Badge" />
+</p>
+
+---
+
 ## 📊 Activity Archive<br>
 > 저의 성장은 현재진행형입니다
 
