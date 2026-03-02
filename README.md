@@ -115,7 +115,7 @@
 
 <br>
 
-> 💡 **License & Trademark Notice**
-> *Arduino® is a trademark of Arduino SA.*
-> *Unity is a trademark of Unity Technologies.*
-> *Vercel is a trademark of Vercel, Inc.*
+> 💡 **License & Trademark Notice** <br>
+> *Arduino® is a trademark of Arduino SA.* <br>
+> *Unity is a trademark of Unity Technologies.* <br>
+> *Vercel is a trademark of Vercel, Inc.* <br>
