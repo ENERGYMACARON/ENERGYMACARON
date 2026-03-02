@@ -18,8 +18,8 @@
 
 ## 📂 Projects
 <p align="left">
-  <a href="https://github.com/ENERGYMACARON/Unity_3D_Ball_Study">
-    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Unity_3D_Ball_Study&show_owner=true&theme=algolia&hide_border=true" />
+  <a href="https://github.com/ENERGYMACARON/Study_Unity_3D_Ball">
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Study_Unity_3D_Ball&show_owner=true&theme=algolia&hide_border=true" />
   </a>
 </p>
 
