@@ -16,10 +16,19 @@
 
 ---
 
+## 📂 Projects
+<p align="left">
+  <a href="https://github.com/ENERGYMACARON/Unity_3D_Ball_Study">
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Unity_3D_Ball_Study&show_owner=true" />
+  </a>
+</p>
+
+---
+
 ## 🛠 Tech Stack & Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://energymacaron-github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true" height="150" />
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true&locale=kr" height="150" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://energymacaron-github-readme-stats.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true" height="150" />
