@@ -111,8 +111,6 @@
 <p align="left">
   <a href="https://www.instagram.com/hyeonsu_makes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.hyeonsumakes.me"><img src="https://img.shields.io/badge/HYEONSU-MAKES-2E7D32?style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/@HyeonsuMakes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  
 </p>
 
 <br>
@@ -121,4 +119,3 @@
 > *Arduino® is a trademark of Arduino SA.* <br>
 > *Unity is a trademark of Unity Technologies.* <br>
 > *Vercel is a trademark of Vercel, Inc.* <br>
-> *YouTube is a trademark of Google LLC.* <br>
