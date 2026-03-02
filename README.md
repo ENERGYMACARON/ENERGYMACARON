@@ -19,7 +19,7 @@
 ## 📂 Projects
 <p align="left">
   <a href="https://github.com/ENERGYMACARON/Unity_3D_Ball_Study">
-    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Unity_3D_Ball_Study&show_owner=true" />
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Unity_3D_Ball_Study&show_owner=true&theme=algolia&hide_border=true" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack & Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://energymacaron-github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true&locale=kr" height="150" />
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true" height="150" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://energymacaron-github-readme-stats.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true" height="150" />
@@ -80,6 +80,7 @@
 <br>
   
 **2026-1**: 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
