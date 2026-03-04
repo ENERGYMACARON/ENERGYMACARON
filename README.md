@@ -1,7 +1,7 @@
 # 🌿 세상에 행복을 중개하고 기획하는 개발자, 하현수입니다
 
 <p align="left">
-  <img src="https://energymacaron-univ-profile.vercel.app/api?school=yit&name=하현수&dept=스마트소프트웨어학과&id=22260068&major=SW전공" alt="University Badge" /> <br>
+  <img src="https://energymacaron-univ-profile.vercel.app/api?school=yit&dept=smartsw&major=sw&name=%ED%95%98%ED%98%84%EC%88%98&id=22260068" alt="University Badge" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&width=500&lines=기록은+기억을+이기고;활동은+성장을+증명합니다" alt="Typing SVG" />
 </p>
 
@@ -21,6 +21,8 @@
 <p align="left">
   <a href="https://github.com/ENERGYMACARON/Study_Unity_3D_Ball">
     <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Study_Unity_3D_Ball&show_owner=true&theme=algolia&hide_border=true" />
+    <a href="https://github.com/ENERGYMACARON/github-readme-stats">
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=github-readme-stats&show_owner=true&theme=algolia&hide_border=true" />
   </a>
 </p>
 
