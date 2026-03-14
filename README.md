@@ -50,7 +50,8 @@
 **2026-2(Pending Graduation)**: 
 ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
 **2026-1**: 
-![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
+![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) <br>
 **2024-1**: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white) 
