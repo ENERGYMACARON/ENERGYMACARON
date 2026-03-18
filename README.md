@@ -19,6 +19,9 @@
 
 ## 📂 Projects
 <p align="left">
+  <a href="https://github.com/2026-Software-Engineering/yit-meal">
+    <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=2026-Software-Engineering&repo=yit-meal&show_owner=true&theme=algolia&hide_border=true" />
+  </a>
   <a href="https://github.com/ENERGYMACARON/Study_Unity_3D_Ball">
     <img src="https://energymacaron-github-readme-stats.vercel.app/api/pin/?username=ENERGYMACARON&repo=Study_Unity_3D_Ball&show_owner=true&theme=algolia&hide_border=true" />
   </a>
