@@ -88,6 +88,7 @@
 <br>
   
 **2026-1**: 
+![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) 
@@ -127,3 +128,4 @@
 > *Arduino® is a trademark of Arduino SA.* <br>
 > *Unity is a trademark of Unity Technologies.* <br>
 > *Vercel is a trademark of Vercel, Inc.* <br>
+> *Firebase is a trademark of Google LLC.* <br>
