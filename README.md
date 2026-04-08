@@ -21,7 +21,7 @@
 
 |  | Organization |  | Organization |
 | :--- | :--- | :--- | :--- |
-| <img src="https://github.com/2023Capstone.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 모이자**](https://github.com/2023Capstone) (2023 캡스톤) | <img src="https://github.com/ModackBull.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 모닥불**](https://github.com/ModackBull) (2026 연합 게임동아리) |
+| <img src="https://github.com/2023Capstone.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 가보자(구. 모이자)**](https://github.com/2023Capstone) (2023 캡스톤) | <img src="https://github.com/ModackBull.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 모닥불**](https://github.com/ModackBull) (2026 연합 게임동아리) |
 | <img src="https://github.com/2026-Software-Engineering.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 세탁기**](https://github.com/2026-Software-Engineering) (2026 소프트웨어공학) | | |
 
 
