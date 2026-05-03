@@ -57,40 +57,53 @@
 ## 📚 History & Archive
 
 <details>
-<summary><b>📚 Academic Background (University)</b></summary>
-<br>
+<summary><b>📚 Academic Background</b></summary>
+
+  <details>
+  <summary><b> | 2027 ~</b></summary>
+  <br>
+    
+  **2027**: 
+
+  </details>
   
-**2026-2(Pending Graduation)**: 
-![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
-**2026-1**: 
-![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) <br>
-**2024-1**: 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br>
-**2023-2**: 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br>
-**2023-1**: 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge) 
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) <br>
-**2022-2**: 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) <br>
-**2022-1**: 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  <details>
+  <summary><b>Yonam Institute of Technology (Univ) | 2022 ~ 2026</b></summary>
+  <br>
+  
+  **2026-2(Pending Graduation)**: 
+  ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
+  **2026-1**: 
+  ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) 
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) <br>
+  **2024-1**: 
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openaigym&logoColor=white) 
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br>
+  **2023-2**: 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
+  [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) 
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br>
+  **2023-1**: 
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+  ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge) 
+  ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) <br>
+  **2022-2**: 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) <br>
+  **2022-1**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) 
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+  ![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  </details>
+  
 </details>
 
 <details>
@@ -98,6 +111,8 @@
 <br>
   
 **2026-1**: 
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![oopy](https://img.shields.io/badge/oopy-007AFF?style=for-the-badge) 
