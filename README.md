@@ -20,10 +20,10 @@
 ## 🛠 Tech Stack & Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://energymacaron-github-readme-stats.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="150" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://energymacaron-github-readme-stats.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true&count_private=true" height="150" />
   </a>
 </p>
 
