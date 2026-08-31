@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **🎮 Game Dev** | 2026.03 ~ Present | **소규모 게임 개발**: 2D 아쿠아리움 게임 기획 및 학습 중 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white&height=20) |
 | **🎖️ Honors** | 2025.04 ~ 2025.12 | [**중독 서포터즈**](https://www.hyeonsumakes.me/anti-addiction): 2025 우수 서포터즈 선정 (4대 중독 예방 캠페인) |
-| **🤝 Volunteer** | 2025.03 ~ 2026.02 | [**위더스(Withus)**](https://www.hyeonsumakes.me/with-us): 경상국립대학교 지역 사회 봉사 활동 참여 |
+| **🤝 Volunteer** | 2025.03 ~ 2026.02 & 2026.09 ~ | [**위더스(Withus)**](https://www.hyeonsumakes.me/with-us): 경상국립대학교 지역 사회 봉사 활동 참여 |
 | **📸 Creative** | 2024.11 ~ 2026.02 | [**청춘네컷**](https://www.hyeonsumakes.me/youth4cuts): 비영리 사진 봉사 (총 150장 이상의 결과물 기부) |
 
 ---
