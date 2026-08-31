@@ -19,10 +19,10 @@
 
 ## 🛠 Tech Stack & Stats
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api?username=ENERGYMACARON&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="150" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ENERGYMACARON&layout=compact&theme=algolia&hide_border=true&count_private=true" height="150" />
   </a>
 </p>
