@@ -57,7 +57,8 @@
   <br>
   
   **2026-2(Pending Graduation)**: 
-  ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) <br>
+  ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br>
   **2026-1**: 
   ![Java](https://img.shields.io/badge/Java_(Retake)-ED8B00?style=for-the-badge) 
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) <br>
