@@ -10,7 +10,6 @@
 
 | Category | Period | Description |
 | :--- | :--- | :--- |
-| **🎮 Game Dev** | 2026.03 ~ Present | **소규모 게임 개발**: 2D 아쿠아리움 게임 기획 및 학습 중 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white&height=20) |
 | **🎖️ Honors** | 2025.04 ~ 2025.12 | [**중독 서포터즈**](https://www.hyeonsumakes.me/anti-addiction): 2025 우수 서포터즈 선정 (4대 중독 예방 캠페인) |
 | **🤝 Volunteer** | 2025.03 ~ 2026.02 & 2026.09 ~ | [**위더스(Withus)**](https://www.hyeonsumakes.me/with-us): 경상국립대학교 지역 사회 봉사 활동 참여 |
 | **📸 Creative** | 2024.11 ~ 2026.02 | [**청춘네컷**](https://www.hyeonsumakes.me/youth4cuts): 비영리 사진 봉사 (총 150장 이상의 결과물 기부) |
@@ -34,7 +33,6 @@
 |  | Organization |
 | :--- | :--- |
 | <img src="https://github.com/2026-Software-Engineering.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 세탁기**](https://github.com/2026-Software-Engineering) (2026 소프트웨어공학) |
-| <img src="https://github.com/ModackBull.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 모닥불**](https://github.com/ModackBull) (2026 연합 게임동아리) |
 | <img src="https://github.com/2023Capstone.png" width="40" height="40" style="border-radius: 50%;" /> | [**팀 가보자(구. 모이자)**](https://github.com/2023Capstone) (2023 캡스톤) |
 
 ---
