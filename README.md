@@ -133,6 +133,7 @@
 <p align="left">
   <a href="https://www.instagram.com/hyeonsu_makes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.hyeonsumakes.me"><img src="https://img.shields.io/badge/HYEONSU-MAKES-2E7D32?style=for-the-badge" /></a>
+  <a href="https://orcid.org/0009-0001-2009-7394"><img src="https://img.shields.io/badge/ORCID-0009--0001--2009--7394-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 
 <br>
